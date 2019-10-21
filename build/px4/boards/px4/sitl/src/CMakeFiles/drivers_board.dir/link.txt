@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/rohit/catkin_ws/devel/.private/px4/lib/libdrivers_board.a  CMakeFiles/drivers_board.dir/__/__/__/__/src/drivers/boards/common/board_identity.c.o CMakeFiles/drivers_board.dir/sitl_led.c.o CMakeFiles/drivers_board.dir/sitl_board_shutdown.c.o
+/usr/bin/ranlib /home/rohit/catkin_ws/devel/.private/px4/lib/libdrivers_board.a

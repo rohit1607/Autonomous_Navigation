@@ -1,0 +1,4 @@
+Symlinking /home/rohit/catkin_ws/devel/share/offb/cmake/offbConfig.cmake
+Symlinking /home/rohit/catkin_ws/devel/share/offb/cmake/offbConfig-version.cmake
+Symlinking /home/rohit/catkin_ws/devel/lib/pkgconfig/offb.pc
+Symlinking /home/rohit/catkin_ws/devel/lib/offb/offb_node

@@ -1,0 +1,8 @@
+prefix=/home/rohit/catkin_ws/install
+
+Name: mavros_msgs
+Description: Description of mavros_msgs
+Version: 0.32.2
+Cflags: -I/home/rohit/catkin_ws/install/include
+Libs: -L/home/rohit/catkin_ws/install/lib 
+Requires: geographic_msgs geometry_msgs message_runtime sensor_msgs std_msgs
